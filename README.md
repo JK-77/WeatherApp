@@ -22,4 +22,4 @@ To run the application, you will need Xcode or another suitable SwiftUI developm
 2. Open the `WeatherApp.xcodeproj` file in the project directory.
 3. Run the project in Xcode.
 4. View the application in an iOS simulator or on a real device.
-5. Click the "Change Day Time" button to switch between day and night backgrounds.
+5. Click the "Change Day Time" button to switch between day and night background.
